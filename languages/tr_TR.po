@@ -1,0 +1,60 @@
+# This file is distributed under the same license as the Development (trunk) package.
+# DELL <azizcelikeri@innovia.biz>, 2014.
+msgid ""
+msgstr ""
+"Project-Id-Version: Development (trunk)\n"
+"PO-Revision-Date: 2015-06-08 11:36+0200\n"
+"Last-Translator: DELL <azizcelikeri@innovia.biz>\n"
+"Language-Team: Innovia Digital\n"
+"Language: tr\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"X-Generator: Poedit 1.8\n"
+"POT-Creation-Date: \n"
+
+msgid "More"
+msgstr "Daha Fazla"
+
+msgid "Less"
+msgstr "Daha Fazla"
+
+msgid "Follow the Minister"
+msgstr "Bakanı Takip Edin"
+
+msgid "Follow MFA"
+msgstr "Bakanlığı Takip Edin"
+
+msgid "Search Results"
+msgstr "Arama Sonuçları"
+
+msgid "Next"
+msgstr "Sonraki"
+
+msgid "Previous"
+msgstr "Önceki"
+
+msgid "Minister’s Schedule"
+msgstr "Bakan'ın Programı"
+
+msgid "Embassy Announcements"
+msgstr "Konsolosluk Duyuruları"
+
+msgid "Latest News"
+msgstr "Güncel Haberler"
+
+msgid "All News"
+msgstr "Tüm Haberler"
+
+msgid "Ministry News"
+msgstr "Bakanlık Haberleri"
+
+msgid "Turkish Republic of Northern Cyprus"
+msgstr "Kuzey Kıbrıs Türk Cumhuriyeti"
+
+msgid "Ministry of Foreign Affairs"
+msgstr "Dışişleri Bakanlığı"
+
+msgid "Search"
+msgstr "Ara"
