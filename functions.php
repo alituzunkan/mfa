@@ -25,6 +25,17 @@
  * @since Foreign Affairs 1.0
  */
 
+
+/*
+*	trying to set up the updater thingeee
+*/
+//include("inc/update_notifier.php");
+
+
+
+
+
+
 /**
  * Set up the content width value based on the theme's design.
  *
@@ -801,6 +812,5 @@ function twmeta(){
 		}
 	}
 }*/
-
 
 
